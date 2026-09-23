@@ -10,7 +10,7 @@ This program takes as an input the file spectre_*.txt and produces as outputs th
 
 ### 2. Oscillations_detection_Dnu.py: description in readme_Oscillations_detection_Dnu.txt
 
-This program takes as an input the file spectre_*.txt and produces as outputs the plots  Windowed_spectrum_KIC_*.pdf, EACF_signal_KIC_*.pdf and Windowed_spectrum_KIC_*.pdf.
+This program takes as an input the file spectre_*.txt and produces as outputs the plots Windowed_spectrum_KIC_*.pdf, EACF_signal_KIC_*.pdf and Windowed_spectrum_KIC_*.pdf.
 
 
 ### Installation: with anaconda
