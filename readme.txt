@@ -15,6 +15,6 @@ This program takes as an input the file spectre_*.txt and produces as outputs th
 
 ### Installation: with anaconda
 
-git clone https://github.com/cgehan-astro/ Postdoc_Portugal_oscillations_detection.git
-cd  Postdoc_Portugal_oscillations_detection
+git clone https://github.com/cgehan-astro/Postdoc_Portugal_oscillations_detection.git
+cd Postdoc_Portugal_oscillations_detection
 conda env create -f environment.yml
